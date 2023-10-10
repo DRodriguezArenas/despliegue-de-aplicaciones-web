@@ -19,3 +19,10 @@
 ![4444](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/fef380af-d8bc-4f0c-98eb-d98d4510d2f6)
 
 ![localhost](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/52b33705-de53-49d3-9206-27d064941ed8)
+
+
+## Instale un certificado SSL y configure su Apache para servir contenido a través de HTTPS en el puerto 4444. Muestre desde el navegador cómo se muestra el sitio web como "seguro" (aunque sea un certificado autofirmado)
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/adec8635-dee6-437c-b59a-0c9b5150b309)
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/d545e1cc-91bb-436e-bb4b-97d466601f19)
