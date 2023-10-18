@@ -30,3 +30,19 @@
 
 ![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/04d5018b-0a4f-4e13-b5e5-7960f8a03000)
 
+##  5.¿Dónde se encuentran los ficheros de configuración de Apache2?
+• Ubicación principal.
+• Explora el archivo apache2.conf. Identifica las secciones principales y describe
+su propósito.
+• sites-available y sites-enabled: Explica la diferencia entre estos dos directorios
+y cómo funcionan juntos.
+• mods-available y mods-enabled: Explica la diferencia entre estos dos
+directorios.
+
+• En el directorio /etc/apache2/ se encuentran los archivos de configuración de Apache2. El archivo principal es 
+apache2.conf, que contiene la configuración global. 
+Los directorios sites-available y sites-enabled contienen archivos de configuración 
+para sitios virtuales, mientras que mods-available y mods-enabled contienen archivos de configuración para módulos. El 
+directorio conf-available contiene archivos de configuración adicionales y conf-enabled contiene enlaces simbólicos a los 
+archivos habilitados. Después de realizar cambios en los archivos de configuración, es necesario reiniciar el servicio de 
+Apache2 para que los cambios surtan efecto.
