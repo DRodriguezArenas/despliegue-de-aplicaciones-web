@@ -57,4 +57,53 @@ directorios.
 
 - "mods-available" contiene los archivos de configuración de los módulos disponibles, mientras que "mods-enabled" contiene enlaces simbólicos a los archivos de configuración de los módulos activos. 
 
+## 6.¿Dónde se encuentran los ficheros de ejecución de Apache2?
+• Ubicación principal
+
+- /usr/sbin
+
+• Control del servicio: Utiliza el binario de ejecución para iniciar, detener,
+recargar y reiniciar el servidor Apache2 explicando la diferencia entre cada uno
+de los comandos utilizados.
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/7d4b0102-be1c-4bfb-ac05-b098f3c84e93)
+
+- "sudo service apache2 start" inicia el servidor Apache2.
+- "sudo service apache2 stop" se utiliza para detener el servidor Apache2.
+- "sudo service apache2 reload" se utiliza para recargar la configuración del servidor Apache2 sin detenerlo por completo.
+-  "sudo service apache2 restart" se utiliza para detener y luego iniciar nuevamente el servidor Apache2.
+
+• Comprobación de sintaxis: Usa el binario de Apache para verificar la sintaxis
+de tu configuración. Esto es útil para asegurarse de que no haya errores antes
+de reiniciar el servidor.
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/ef96339a-eb09-4597-9e5f-fd5d9911e92f)
+
+
+## 7.¿Dónde se encuentran los ficheros de monitorización de Apache2?
+• Ubicación principal
+
+- /var/log/apache2/
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/95b1f661-a04c-4be0-b83a-40ea709d61b9)
+
+
+• error.log y access.log: Explica la diferencia entre estos dos archivos. Abre y
+revisa las entradas recientes en cada uno de ellos.
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/6bd80072-8433-4031-9231-a4e5c8af8d69)
+- error.log registra errores y advertencias relacionados con el servidor Apache2.
+- access.log registra información sobre las solicitudes entrantes al servidor.
+
+• Rotación de logs: Investiga cómo funciona la rotación de logs en Apache2.
+¿Por qué es importante? ¿Cómo se configura?
+
+- Se configura a través del módulo "logrotate".
+  
+• Monitorización en tiempo real: Utiliza herramientas como tail -f para monitorear
+en tiempo real los accesos a tu servidor web y posibles errores.
+• Análisis de logs: Instala y usa herramientas como goaccess para analizar y
+obtener estadísticas visuales a partir de tus logs de Apache2.
+
+
 
