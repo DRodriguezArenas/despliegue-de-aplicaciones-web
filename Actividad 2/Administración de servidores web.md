@@ -119,7 +119,8 @@ obtener estadísticas visuales a partir de tus logs de Apache2.
 ## 8.¿Qué es un Firewall? ¿Para qué sirve? ¿Por qué es necesario? 
 Instale y configure un Firewall en la máquina virtual para que solo permita tráfico HTTP y HTTPS. Bloqueetodo el resto de los puertos y demuestre su funcionamiento
 
-- Un firewall es un componente de seguridad de red que protege sistemas y redes controlando el tráfico de datos entre ellos y el mundo exterior.
+- Un firewall es un componente de seguridad de red que protege sistemas y redes controlando el tráfico de datos entre ellos y el mundo
+exterior.
 - Sirve para prevenir amenazas cibernéticas.
 - Es necesario debido a la creciente amenaza de ataques cibernéticos.
 
@@ -131,3 +132,16 @@ Instale y configure un Firewall en la máquina virtual para que solo permita tr�
 ![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/34db26a7-f8cb-478b-b05d-a63f4fac7603)
 
 
+## 9.Explica con tus palabras las diferentes partes de una URL
+
+Una URL es como una dirección para encontrar cosas en Internet. Tiene partes como el "esquema" que dice cómo acceder, luego el "nombre de 
+dominio" que identifica el sitio web, un "subdominio" opcional, una "ruta" que muestra dónde está el recurso, "parámetros" que 
+personalizan la página y un "fragmento" que a menudo lleva a un lugar específico en una página.
+
+## 10. Explica el funcionamiento del protocolo HTTP con tus palabras.
+
+HTTP es como un mensajero de Internet que te permite ver páginas web. Cuando escribes una dirección en tu navegador, este le 
+pide al servidor web la página y te la muestra en la pantalla. Si quieres más cosas de esa página, vuelve a pedirlas. Así es 
+como se puede navegar por Internet y ver diferentes páginas web.
+
+## 11. ¿Qué es un archivo .htaccess? Proporcione un ejemplo de cómo se puede utilizar para reescribir URL o restringir el acceso a ciertas partes de su sitio web.
