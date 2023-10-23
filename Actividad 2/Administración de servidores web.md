@@ -92,6 +92,7 @@ de reiniciar el servidor.
 revisa las entradas recientes en cada uno de ellos.
 
 ![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/6bd80072-8433-4031-9231-a4e5c8af8d69)
+
 - error.log registra errores y advertencias relacionados con el servidor Apache2.
 - access.log registra información sobre las solicitudes entrantes al servidor.
 
@@ -103,8 +104,30 @@ revisa las entradas recientes en cada uno de ellos.
   
 • Monitorización en tiempo real: Utiliza herramientas como tail -f para monitorear
 en tiempo real los accesos a tu servidor web y posibles errores.
+
+- ![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/e5dd2ee9-3eb3-4cf2-9260-4341ea4905f7)
+
+
 • Análisis de logs: Instala y usa herramientas como goaccess para analizar y
 obtener estadísticas visuales a partir de tus logs de Apache2.
 
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/1e04f3cb-7931-4147-80bc-b07ac917fe48)
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/fd859109-2e82-42ff-a0b9-a46f485a336f)
+
+
+## 8.¿Qué es un Firewall? ¿Para qué sirve? ¿Por qué es necesario? 
+Instale y configure un Firewall en la máquina virtual para que solo permita tráfico HTTP y HTTPS. Bloqueetodo el resto de los puertos y demuestre su funcionamiento
+
+- Un firewall es un componente de seguridad de red que protege sistemas y redes controlando el tráfico de datos entre ellos y el mundo exterior.
+- Sirve para prevenir amenazas cibernéticas.
+- Es necesario debido a la creciente amenaza de ataques cibernéticos.
+
+
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/a432477e-8fd8-4f75-88df-b2b75a46637d)
+
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/34db26a7-f8cb-478b-b05d-a63f4fac7603)
 
 
