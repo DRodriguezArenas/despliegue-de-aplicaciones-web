@@ -145,3 +145,5 @@ pide al servidor web la página y te la muestra en la pantalla. Si quieres más 
 como se puede navegar por Internet y ver diferentes páginas web.
 
 ## 11. ¿Qué es un archivo .htaccess? Proporcione un ejemplo de cómo se puede utilizar para reescribir URL o restringir el acceso a ciertas partes de su sitio web.
+
+- Los archivos .htaccess son como pequeños archivos de configuración que puedes poner en carpetas específicas de tu sitio web. Por ejemplo, puedes usar un archivo .htaccess para hacer que las URLs se vean más bonitas o para proteger una parte de tu sitio con una contraseña.
