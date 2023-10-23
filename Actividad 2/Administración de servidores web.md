@@ -98,6 +98,7 @@ revisa las entradas recientes en cada uno de ellos.
 • Rotación de logs: Investiga cómo funciona la rotación de logs en Apache2.
 ¿Por qué es importante? ¿Cómo se configura?
 
+- Es importante para ahorrar espacio en el disco.
 - Se configura a través del módulo "logrotate".
   
 • Monitorización en tiempo real: Utiliza herramientas como tail -f para monitorear
