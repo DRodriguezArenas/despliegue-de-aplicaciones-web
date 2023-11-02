@@ -18,7 +18,8 @@
 
 ![4444](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/fef380af-d8bc-4f0c-98eb-d98d4510d2f6)
 
-![4444_](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/879f95b5-bb94-4c92-921d-9ef1eb7d9d31)
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/76ac1cf9-6cba-4d3b-b175-199bf9c8513a)
+
 
 ![localhost](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/52b33705-de53-49d3-9206-27d064941ed8)
 
