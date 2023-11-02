@@ -71,7 +71,7 @@ directorios.
 recargar y reiniciar el servidor Apache2 explicando la diferencia entre cada uno
 de los comandos utilizados.
 
-![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/7d4b0102-be1c-4bfb-ac05-b098f3c84e93)
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/6304948f-b5e0-4f13-85d6-b999c8967c06)
 
 - "sudo service apache2 start" inicia el servidor Apache2.
 - "sudo service apache2 stop" se utiliza para detener el servidor Apache2.
@@ -82,7 +82,7 @@ de los comandos utilizados.
 de tu configuración. Esto es útil para asegurarse de que no haya errores antes
 de reiniciar el servidor.
 
-![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/ef96339a-eb09-4597-9e5f-fd5d9911e92f)
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/924a83eb-eb0e-4f7f-b47e-948c97491332)
 
 
 ## 7.¿Dónde se encuentran los ficheros de monitorización de Apache2?
@@ -90,13 +90,15 @@ de reiniciar el servidor.
 
 - /var/log/apache2/
 
-![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/95b1f661-a04c-4be0-b83a-40ea709d61b9)
-
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/625063d6-f4a9-45f8-85af-984737855dbb)
 
 • error.log y access.log: Explica la diferencia entre estos dos archivos. Abre y
 revisa las entradas recientes en cada uno de ellos.
 
-![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/6bd80072-8433-4031-9231-a4e5c8af8d69)
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/139b45c8-ef54-4f16-b542-cf6d46b0f58d)
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/9a53f9e8-eb8b-42ff-a82a-8278ad6ce076)
+
 
 - error.log registra errores y advertencias relacionados con el servidor Apache2.
 - access.log registra información sobre las solicitudes entrantes al servidor.
@@ -110,15 +112,12 @@ revisa las entradas recientes en cada uno de ellos.
 • Monitorización en tiempo real: Utiliza herramientas como tail -f para monitorear
 en tiempo real los accesos a tu servidor web y posibles errores.
 
-- ![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/e5dd2ee9-3eb3-4cf2-9260-4341ea4905f7)
-
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/da29871c-d2f9-4fd6-ad94-6df1a3b6f0e8)
 
 • Análisis de logs: Instala y usa herramientas como goaccess para analizar y
 obtener estadísticas visuales a partir de tus logs de Apache2.
 
-![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/1e04f3cb-7931-4147-80bc-b07ac917fe48)
-
-![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/fd859109-2e82-42ff-a0b9-a46f485a336f)
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/177d546b-8752-4405-b64b-26fed746aec3)
 
 
 ## 8.¿Qué es un Firewall? ¿Para qué sirve? ¿Por qué es necesario? 
@@ -128,13 +127,6 @@ Instale y configure un Firewall en la máquina virtual para que solo permita tr�
 exterior.
 - Sirve para prevenir amenazas cibernéticas.
 - Es necesario debido a la creciente amenaza de ataques cibernéticos.
-
-
-
-![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/a432477e-8fd8-4f75-88df-b2b75a46637d)
-
-
-![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/34db26a7-f8cb-478b-b05d-a63f4fac7603)
 
 
 ## 9.Explica con tus palabras las diferentes partes de una URL
