@@ -3,6 +3,9 @@
 
 ## 1. Añade en tu servidor el módulo mod_info y explique para que se utiliza este plugin.
 
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/463de140-3a19-4de4-a891-990389309bd7)
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/b2743b3d-8c8b-460a-a1c1-9f17368dc929)
 
 
 ## 2. Oculta la versión del sistema y sistema de apache.
