@@ -29,7 +29,7 @@
 
 ![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/f03f9f09-c481-4b9d-9545-b239e672b944)
 
-![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/1e2a06c9-d390-4572-9aa4-8d70a29c5310)
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/953567b9-4ad7-45df-a394-b5c3b8d0d7c3)
 
 
 ##  5.¿Dónde se encuentran los ficheros de configuración de Apache2?
