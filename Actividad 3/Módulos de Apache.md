@@ -29,3 +29,9 @@
 
 
 ## 5. Muestra los directorios de Apache con un tema diferente. Puedes utilizar https://github.com/ramlmn/Apache-Directory-Listing u otra alternativa que te llame la atención.
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/7fb00db4-dad2-4ef0-a5b3-7db69fead516)
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/c58d6b32-b73f-4a6e-9ad8-c135d7fc89c4)
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/e389f2e2-40bf-4470-a0a4-c299c48fcd78)
