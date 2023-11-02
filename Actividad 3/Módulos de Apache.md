@@ -10,8 +10,7 @@
 
 ## 2. Oculta la versión del sistema y sistema de apache.
 
-
-
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/ec97f413-c24c-4580-98d7-e5be4f460d9a)
 
 ## 3. Crea una carpeta en la raíz del path del servidor con el nombre public y otra con el nombre private. Permite que la carpeta public se visualice y el resto de las carpetas que se creen, incluyendo private, no se muestren. A continuación, puede observar cómo se debe de mostrar la carpeta public:
 
