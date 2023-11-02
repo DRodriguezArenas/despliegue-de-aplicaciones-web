@@ -31,18 +31,21 @@
 
 ![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/953567b9-4ad7-45df-a394-b5c3b8d0d7c3)
 
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/8074a756-1d63-4a2a-bf17-ee1eaba6dbc4)
+
 
 ##  5.¿Dónde se encuentran los ficheros de configuración de Apache2?
 
 • Ubicación principal.
 - /etc/apache2/
 
-![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/a73b7852-38b2-4bd2-b2b2-f79b889d9a76)
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/63b8a654-e6fa-428f-9ac0-7f6b05926176)
+
 
 • Explora el archivo apache2.conf. Identifica las secciones principales y describe
 su propósito.
 
-![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/7f94106d-91fe-42c6-8c0c-61f47217ea36)
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/59877e35-a892-4f16-bf9f-1be59bfd3e65)
 
 - Su propósito es personalizar el comportamiento del servidor.
 
