@@ -21,6 +21,11 @@
 
 ## 4. Prueba de acceder poniendo www. delante de tu URL actual. ¿Funciona? En caso negativo, haz que funcione mediante el módulo mod_rewrite. Investigue como utilizar el archivo .htacess para implementarlo.
 
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/48a46ec6-4a81-4d9c-a7be-0a81cca35424)
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/8a537a78-c593-4049-9d27-17c1848bf120)
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/f131e177-da47-40bf-adaf-8587d759965f)
 
 
 ## 5. Muestra los directorios de Apache con un tema diferente. Puedes utilizar https://github.com/ramlmn/Apache-Directory-Listing u otra alternativa que te llame la atención.
