@@ -27,9 +27,10 @@
 
 ## 4.Instale un certificado SSL y configure su Apache para servir contenido a través de HTTPS en el puerto 4444. Muestre desde el navegador cómo se muestra el sitio web como "seguro" (aunque sea un certificado autofirmado)
 
-![ssl](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/5a5d8783-5b71-4267-a07d-2ef80341a0c6)
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/f03f9f09-c481-4b9d-9545-b239e672b944)
 
-![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/04d5018b-0a4f-4e13-b5e5-7960f8a03000)
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/1e2a06c9-d390-4572-9aa4-8d70a29c5310)
+
 
 ##  5.¿Dónde se encuentran los ficheros de configuración de Apache2?
 
