@@ -45,7 +45,7 @@
 
 ![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/4cdf00b8-640f-4b58-8e51-2df2ebcbf38b)
 
--drodrigueza  
+- drodrigueza  
 
 ![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/3e6fa611-50d4-4174-a7c0-520cd5950f2d)
 
