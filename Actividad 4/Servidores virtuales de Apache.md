@@ -13,3 +13,16 @@
 - archivo configuración para cada uno de los dominios
 
 ![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/4c71cba2-635d-4c5e-9a93-bc82027a6459)
+
+
+- editar los archivos de configuración
+
+-> daw.conf
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/e7cce794-e3af-4abb-84b2-a38d569015a0)
+
+-> drodrigueza.conf
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/0dcff8ca-5a80-435b-bb08-0d729b1f79cc)
+
+
