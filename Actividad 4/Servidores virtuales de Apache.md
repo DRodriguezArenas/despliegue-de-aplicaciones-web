@@ -31,7 +31,7 @@
 ![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/95d80b2e-414e-481d-8cc4-89e405e5d824)
 
 
-- modificar los DNS
+- añadir los puertos
 
 ![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/6886e9ce-6ab6-40d4-895c-eada70e84d72)
 
