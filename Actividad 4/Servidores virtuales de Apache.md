@@ -26,3 +26,6 @@
 ![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/0dcff8ca-5a80-435b-bb08-0d729b1f79cc)
 
 
+- habilitar los sitios y reiniciar apache
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/95d80b2e-414e-481d-8cc4-89e405e5d824)
