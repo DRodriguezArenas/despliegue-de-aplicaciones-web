@@ -38,3 +38,14 @@
 
 ![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/6886e9ce-6ab6-40d4-895c-eada70e84d72)
 
+
+- acceder a cada web
+
+- daw
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/4cdf00b8-640f-4b58-8e51-2df2ebcbf38b)
+
+-drodrigueza  
+
+![image](https://github.com/DRodriguezArenas/despliegue-de-aplicaciones-web/assets/144775859/3e6fa611-50d4-4174-a7c0-520cd5950f2d)
+
